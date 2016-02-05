@@ -13,9 +13,10 @@ public class kenArrayList{
 	
 	ArrayList<String> names = new ArrayList<String>();
 	
-	names.add("John Smith");
-	names.add("Mohamed Alami");
-	names.add("Oliver Miller");
+	names.add("Joe Smith");
+	names.add("Jeb Alami");
+	names.add("Olive Oil");
+	names.add("Seahawks");
 	
 	names.add(2, "Jack Ryan");
 	
